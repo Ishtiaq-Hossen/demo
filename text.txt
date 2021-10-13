@@ -3,5 +3,3 @@ Hi this is a line(1)
 here its a 2nd line
 
 here I added 3rd line
-
-My name is something else
